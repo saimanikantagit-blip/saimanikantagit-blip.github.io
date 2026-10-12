@@ -16,4 +16,4 @@ npm run build
 npm run preview
 ```
 
-GitHub Pages deployment runs automatically when changes are pushed to `main`.
+GitHub Pages deployment runs automatically when changes are pushed to `main`. The live portfolio is served from the account's root Pages address.
